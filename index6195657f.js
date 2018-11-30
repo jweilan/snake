@@ -13,4 +13,4 @@ loadLib("libs/laya.webglcdfbdd24.js")
 loadLib("libs/laya.uife0eafe4.js")
 loadLib("libs/laya.physicsce764716.js")
 //-----libs-end-------
-loadLib("js/bundle75673ece.js");
+loadLib("js/bundlebf56a90a.js");
